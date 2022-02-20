@@ -8,18 +8,18 @@ int main()
 	{
 		printf("Grade A");
 	}
-    else if (x>=70 && x<=84)
-    {
+        else if (x>=70 && x<=84)
+        {
 	printf("Grade B");
-    }
-	else if (x>=55 && x<=69)
+        U}
+        else if (x>=55 && x<=69)
 	{
 	printf("Grade C");
-    }   
-    else if (x>=40 && x<=54)
+        }   
+        else if (x>=40 && x<=54)
 	{
 	printf("Grade D");
-    }
+        }
 	else 
 	{
 	printf("Grade F");
